@@ -69,8 +69,6 @@ Now that we understand that everything is an object and have a little bit of kno
 * [ ] 34. int 3/3
 * [x] 35. Clear strings
 
-## Developer
-Javier Andrés Garzón Patarroyo
-- [website](https://tecnoayuda.co/)
-
-:man_technologist: :books: :computer: :globe_with_meridians:
+## Software Developer
+Built by [javi](https://github.com/javi0x00) :copyright: 2019 - 2020  
+Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javi0x00/).

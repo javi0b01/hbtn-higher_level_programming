@@ -63,8 +63,6 @@ You will also learn about:
 * [ ] 20. JSON ok, but CSV?
 * [ ] 21. Let's draw it
 
-## Developer
-Javier Andrés Garzón Patarroyo
-- [website](https://tecnoayuda.co/)
-
-:man_technologist: :books: :computer: :globe_with_meridians:
+## Software Developer
+Built by [javi](https://github.com/javi0x00) :copyright: 2019 - 2020  
+Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javi0x00/).

@@ -53,8 +53,6 @@ Read or watch the below resources in the order presented.
 * [ ] 9. Compare 2 squares
 * [ ] 10. ByteCode -> Python #5
 
-## Developer
-Javier Andrés Garzón Patarroyo
-- [website](https://tecnoayuda.co/)
-
-:man_technologist: :books: :computer: :globe_with_meridians:
+## Software Developer
+Built by [javi](https://github.com/javi0x00) :copyright: 2019 - 2020  
+Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javi0x00/).

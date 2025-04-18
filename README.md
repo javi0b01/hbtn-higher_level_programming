@@ -1,7 +1,6 @@
 # Foundations
-###### :copyright: **[Holberton School](https://www.holbertonschool.com/)**
 ## Higher-level programming
-###### Projects
+### Projects
 :open_file_folder: holbertonschool-higher_level_programming
 * [x] 231 0x00. Python - Hello, World
 * [x] 233 0x01. Python - if/else, loops, functions
@@ -27,9 +26,6 @@
 * [x] 333 0x14. Javascript - Web scraping
 * [x] 305 0x15. Javascript - Web JQuery
 
-## Developer
-Javier Andrés Garzón Patarroyo
-- :octocat: [GitHub](https://github.com/javierandresgp/)
-- :link: [Linkedin](https://www.linkedin.com/in/javierandresgp/)
-
-:man_technologist: :books: :computer: :globe_with_meridians:
+## Software Developer
+Built by [javi](https://github.com/javi0x00) :copyright: 2019 - 2020  
+Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javi0x00/).
